@@ -1,0 +1,8 @@
+*.class
+
+#-Packages-#
+*.jar
+
+#-Natives-#
+*.so
+*.dll
